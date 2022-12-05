@@ -11,7 +11,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -25,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://www.frontendmentor.io/solutions/single-price-grid-component-GKg7ZtHEze)
+- Live Site URL:(https://lucent-cactus-703701.netlify.app/)
 
 ## My process
 
